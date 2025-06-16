@@ -4,8 +4,8 @@
 }
 
 .cabecalho {
-    background-color: #4d805d;
-    color: white;
+    background-color: #005b05;
+    color: rgb(255, 255, 255);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -23,12 +23,12 @@
 }
 
 .escola-imagem{
-    width: 25%;
+    width: 20%;
 }
 
 .escola{
-    background-image: linear-gradient(#64c095,#2c744a);
-    color:white;
+    background-image: linear-gradient(#64c095,#00b1ab);
+    color:rgb(255, 255, 255);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -51,7 +51,7 @@
 }
 
 .estudante-icone{
-    width: 24px;
+    width: 90px;
     padding: 4px 8px;
 }
 
@@ -69,3 +69,5 @@
     padding: 12px 0;
    
 }
+
+
